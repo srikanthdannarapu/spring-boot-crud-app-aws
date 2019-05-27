@@ -5,7 +5,7 @@ follow the steps on this link to deploy spring boot crud app jar file on AWS clo
 
 https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/
 
-
+After creating db instance change inbound security to anywhere
 
 AWS DevOps Blog
 Deploying a Spring Boot Application on AWS Using AWS Elastic Beanstalk
